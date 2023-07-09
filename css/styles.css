@@ -1111,8 +1111,8 @@ font-size: 1.2rem;
         grid-template-columns: 1fr 1fr 1fr;
     }
     .singlepost_thumbnail {
-        height: 23rem;
-        width: 23rem;
+        height: 20rem;
+        width: 18rem;
         margin-top: 2rem;
     
     }
