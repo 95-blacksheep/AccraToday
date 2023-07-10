@@ -261,8 +261,8 @@ nav btn {
 }
 
 .posts_container .post_thumbnail {
-    height: 15rem;
-    width: 15rem;
+    height: 18rem;
+    width: 18rem;
     object-fit: cover;
     overflow: hidden;
 }
@@ -287,6 +287,7 @@ nav btn {
 }
 .post_info h3{
     margin: .9rem 0;
+    font-size: 1.1rem;
 }
 .category_buttons {
     padding: 1rem 0;
