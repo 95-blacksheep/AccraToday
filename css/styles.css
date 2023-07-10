@@ -287,8 +287,13 @@ nav btn {
 }
 .post_info h3{
     margin: .9rem 0;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
 }
+.post_info h3:hover { 
+    text-decoration: underline;
+    color: white;
+}
+
 .category_buttons {
     padding: 1rem 0;
     border-top: 2px solid var(--text-color);
