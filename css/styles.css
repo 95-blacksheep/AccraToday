@@ -261,8 +261,8 @@ nav btn {
 }
 
 .posts_container .post_thumbnail {
-    height: 18rem;
-    width: 18rem;
+    height: 15rem;
+    width: 15rem;
     object-fit: cover;
     overflow: hidden;
 }
